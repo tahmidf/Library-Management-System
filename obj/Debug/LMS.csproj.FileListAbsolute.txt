@@ -1,0 +1,29 @@
+c:\users\wasim sourav\documents\visual studio 2015\Projects\LMS\LMS\bin\Debug\LMS.exe.config
+c:\users\wasim sourav\documents\visual studio 2015\Projects\LMS\LMS\bin\Debug\LMS.exe
+c:\users\wasim sourav\documents\visual studio 2015\Projects\LMS\LMS\bin\Debug\LMS.pdb
+c:\users\wasim sourav\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+c:\users\wasim sourav\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+c:\users\wasim sourav\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+c:\users\wasim sourav\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.exe
+c:\users\wasim sourav\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.pdb
+c:\users\wasim sourav\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Login.resources
+C:\Users\Wasim Sourav\Documents\Visual Studio 2015\Projects\LMS\LMS\bin\Debug\MySql.Data.dll
+C:\Users\Wasim Sourav\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Admin.resources
+C:\Users\Wasim Sourav\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.BookList.resources
+C:\Users\Wasim Sourav\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.SignUp.resources
+C:\Users\Wasim Sourav\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Book_Management.resources
+C:\Users\Wasim Sourav\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.BookTransaction.resources
+E:\CSE\CSC 401\Codes\LMS\LMS\bin\Debug\LMS.exe.config
+E:\CSE\CSC 401\Codes\LMS\LMS\obj\Debug\LMS.exe
+E:\CSE\CSC 401\Codes\LMS\LMS\obj\Debug\LMS.pdb
+E:\CSE\CSC 401\Codes\LMS\LMS\bin\Debug\LMS.exe
+E:\CSE\CSC 401\Codes\LMS\LMS\bin\Debug\LMS.pdb
+E:\CSE\CSC 401\Codes\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+E:\CSE\CSC 401\Codes\LMS\LMS\obj\Debug\LMS.Admin.resources
+E:\CSE\CSC 401\Codes\LMS\LMS\obj\Debug\LMS.Book_Management.resources
+E:\CSE\CSC 401\Codes\LMS\LMS\obj\Debug\LMS.BookList.resources
+E:\CSE\CSC 401\Codes\LMS\LMS\obj\Debug\LMS.BookTransaction.resources
+E:\CSE\CSC 401\Codes\LMS\LMS\obj\Debug\LMS.Login.resources
+E:\CSE\CSC 401\Codes\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+E:\CSE\CSC 401\Codes\LMS\LMS\obj\Debug\LMS.SignUp.resources
+E:\CSE\CSC 401\Codes\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
